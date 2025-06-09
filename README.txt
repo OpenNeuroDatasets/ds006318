@@ -39,7 +39,4 @@ Authors\
 - Images were preprocessed and resized to 320x320 pixels.\
 - Labels: tumor (50 cases), non_tumor (40 cases).\
 - Original data collected from Asia International Hospital and Hiwa Hospital from Sulaymaniyah, Kurdistan Region, Iraq\
-\
-\
-\
-}
+- Dataset Link: https://openneuro.org/datasets/ds006318/versions/1.0.0}
