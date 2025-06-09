@@ -32,7 +32,7 @@
         "[4] P. A. Abdalla, A. M. Qadir, O. J. Rashid, K. M. H. Rawf, A. O. Abdulrahman, and B. A. Mohammed, 'Deep transfer learning networks for brain tumor detection: the effect of MRI patient image augmentation methods.'",
         "[5] J. Amin, M. A. Anjum, N. Gul, M. Sharif, and S. Kadry, 'Clinically acquired new challenging dataset for brain SOL segmentation: AJBDS-2023,' Data in Brief, vol. 52, p. 109915, 2024."
     ],
-    "DatasetDOI": "https://openneuro.org/datasets/ds006318/versions/1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006318.v2.0.0",
     "SourceDatasets": [
         {
             "URL": "",
